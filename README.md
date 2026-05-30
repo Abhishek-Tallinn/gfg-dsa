@@ -1,2 +1,2 @@
 # gfg-dsa
-Solution to DSA problems on Geeks for Geeks platform
+Solutions to DSA problems on Geeks for Geeks platform
