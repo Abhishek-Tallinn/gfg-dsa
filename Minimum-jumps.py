@@ -18,8 +18,6 @@ class Solution:
         for i in range(len(arr)-1):
             farthest = max(farthest,i+arr[i])
             
-
-            
             if i == end:
                 if farthest == i:
                     notPossible = True
